@@ -1,9 +1,10 @@
 # fiftyfestival
 css + javascript demo project
 
-## Project Info
+### Project Info
 
-Colors
+**Colors**
+
 PINK
  #fd76a7
 
@@ -16,12 +17,15 @@ GREEN
 BLACK
  #111118
 
-Typefaces
+**Typefaces**
 BODY
 Lunchtype24 Regular
+
 HEADINGS
 Lunchtype24 Expanded Medium
-Font sizes
+
+**Font sizes**
+
 BODY
 18px/1.5
 
