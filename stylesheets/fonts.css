@@ -11,12 +11,3 @@
         url('/fonts/lunchtype24-medium-expanded-webfont.woff') format('woff'),
         url('/fonts/lunchtype24-medium-expanded-webfont.ttf') format('truetype');
 }
-
-body{
-    font-family: 'LunchType-Regular', sans-serif;
-    font-size: 14px;
-}
-
-ul {
-    list-style-type: none;
-}
